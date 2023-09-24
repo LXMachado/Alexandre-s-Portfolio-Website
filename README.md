@@ -36,4 +36,4 @@ Let's create something amazing together!
 
 ---
 
-[Portfolio Website](#) | [GitHub Repository](#)
+[Portfolio Website](https://github.com/LXMachado/Alexandre-s-Portfolio-Website/settings/pages) | [GitHub Repository](https://github.com/LXMachado/Alexandre-s-Portfolio-Website)
