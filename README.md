@@ -1,6 +1,6 @@
 # Personal Responsive Portfolio Website
 
-![Website Screenshot](images/Screen Shot 2023-09-27 at 6.26.31 pm.png)
+![Website Screenshot]([images/Screen Shot 2023-09-27 at 6.26.31 pm.png](https://github.com/LXMachado/Alexandre-s-Portfolio-Website/blob/main/images/Screen%20Shot%202023-09-27%20at%206.26.31%20pm.png?raw=true))
 
 ## Description
 
