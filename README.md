@@ -1,4 +1,4 @@
-# Front-End Developer Portfolio
+# Personal Portfolio Website
 
 Welcome to my front-end developer portfolio! I'm a creative problem solver with a passion for building beautiful and interactive web experiences. Here's a brief overview of my skills and the technologies I work with:
 
