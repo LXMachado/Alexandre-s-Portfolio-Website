@@ -1,6 +1,6 @@
 # Personal Responsive Portfolio Website
 
-images/Screen Shot 2023-09-27 at 6.26.31 pm.png
+![Website Screenshot](images/Screen Shot 2023-09-27 at 6.26.31 pm.png)
 
 ## Description
 
