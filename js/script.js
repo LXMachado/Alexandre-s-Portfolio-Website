@@ -31,7 +31,7 @@ window.onscroll = () => {
 
     header.classList.toggle('sticky', window.scrollY > 100);
 
-    /*==================== remove toggle icon and navbar when click navbar link (scroll) ====================*/
+    /*==================== remove toggle icon and navbar (scroll) ====================*/
     menuIcon.classList.remove('bx-x');
     navbar.classList.remove('active');
 };
@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['HTML5', 'CSS3', 'Bootstrap', 'Tailwind','JavaScript', 'React', 'Redux', 'Express', 'Wordpress', 'PHP', 'Postgre SQL', 'ISTQB', 'Agile PM', 'Scrum Master'],
+    strings: ['HTML5', 'CSS3', 'Bootstrap', 'Tailwind','JavaScript', 'React', 'Redux', 'Express', 'Wordpress','Postgre SQL', 'ISTQB', 'Agile PM', 'Scrum Master'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
