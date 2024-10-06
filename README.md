@@ -4,7 +4,7 @@
 
 ## Description
 
-This is my personal portfolio website designed to showcase my skills, experience, and projects as a Software Engineer, Sound Designer, and Music Producer. It is responsive, well-structured, and designed to provide an immersive user experience.
+This is my personal portfolio website designed to showcase my skills, experience, and projects as a Full-Stack Software Engineer. It is responsive, well-structured, and designed to provide an immersive user experience.
 
 ## Features
 
